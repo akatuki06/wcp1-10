@@ -47,10 +47,12 @@ nav {
 	font-size: 16px;
 	text-align: center;
 	color: #FAFAFA;
-	padding: 30px;
-	margin: o auto;
+	/*padding: 30px;*/
+	/*margin: o auto;*/
+	line-height: 70px;
+	padding: 0 30px 0;
 	float: right;
-	line-height: 0.6;
+	/*line-height: 0.6;*/
 }
 
 .hamburger-box {
